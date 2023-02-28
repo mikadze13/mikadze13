@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **php / Laravel**
 
-- 👨‍💻 All of my projects are available at [github.com/mikadze13](github.com/mikadze13)
+- 👨‍💻 All of my projects are available at [github.com/mikadze13](https://github.com/mikadze13)
 
 - 📫 How to reach me **mikadzevazha1@gmail.com**
 
