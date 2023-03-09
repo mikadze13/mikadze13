@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mikadze17" target="blank"><img src="https://img.shields.io/twitter/follow/mikadze17?logo=twitter&style=for-the-badge" alt="mikadze17" /></a> </p>
 
-- 🔭 I’m currently working on [dinamic-cv](https://dinamic-cv-hxn5-66tfl36ht-mikadze13.vercel.app/auth)
+- 🔭 I’m currently working on [dinamic-cv](https://dinamic-cv-hxn5.vercel.app/auth)
 
 - 🌱 I’m currently learning **php / Laravel**
 
