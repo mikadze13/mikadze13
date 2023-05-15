@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [dinamic-cv](https://dinamic-cv-hxn5.vercel.app/auth)
 
-- 🌱 I’m currently learning **php / Laravel**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/mikadze13](https://github.com/mikadze13)
 
