@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikadze13&label=Profile%20views&color=0e75b6&style=flat" alt="mikadze13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mikadze17" target="blank"><img src="https://img.shields.io/twitter/follow/mikadze17?logo=twitter&style=for-the-badge" alt="mikadze17" /></a> </p>
-
-- 🔭 I’m currently working on [dinamic-cv](https://dinamic-cv-hxn5.vercel.app/auth)
+ 
 
 - 🌱 I’m currently learning **Node.js**
 
